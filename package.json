@@ -1,8 +1,8 @@
 {
   "name": "factory-girl",
-  "description": "A factory library for Node.js and JavaScript inspired by factory_girl",
-  "main": "./index",
-  "author": "Simon Wade",
+  "description": "A factory library for Node.js and JavaScript inspired by factory_girl transformed to AMD",
+  "main": "./factory-girl",
+  "author": [ "Celso Marques", "Rafael Jesus"],
   "version": "1.1.4",
   "keywords": [
     "factory",
@@ -13,15 +13,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/aexmachina/factory-girl.git"
+    "url": "https://github.com/celsomarques/factory-girl-amd"
   },
   "bugs": {
-    "url": "http://github.com/aexmachina/factory-girl/issues"
+    "url": "https://github.com/celsomarques/factory-girl-amd/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/aexmachina/factory-girl/raw/master/LICENSE"
+      "url": "https://github.com/celsomarques/factory-girl-amd/raw/master/LICENSE"
     }
   ],
   "dependencies": {},

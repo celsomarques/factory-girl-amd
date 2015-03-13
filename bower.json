@@ -1,0 +1,21 @@
+{
+  "name": "factory-girl-amd",
+  "main": "factory-girl.js",
+  "version": "1.1.4",
+  "homepage": "https://github.com/celsomarques/factory-girl-amd",
+  "authors": [
+      "Celso Marques", "Rafael Jesus"
+    ],
+  "keywords": [
+      "factory-girl",
+      "factory"
+    ],
+  "license": "MIT",
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ]
+}
